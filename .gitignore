@@ -1,0 +1,8 @@
+.cache
+checkpoints
+data/original_data
+data/synthetic_align
+data/train
+data/val
+outputs
+wandb
